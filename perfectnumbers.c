@@ -10,15 +10,9 @@ int mukemmel(int c){
 		printf("bu sayi mukemmel sayidir.");
 	}
 	}	
-	
-	
 	}
 	return toplam;
-	
-	
-}
-
-
+}	
 int main() {
 	int a,c;
 	printf("bir sayi giriniz:");
@@ -26,4 +20,10 @@ int main() {
 	a=mukemmel(c);
 	
 	return 0;
-}
+}	
+	
+	
+
+
+
+
